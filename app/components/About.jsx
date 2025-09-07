@@ -32,7 +32,7 @@ export default (first) => {
           name: "AWS Certification",
           link: "https://drive.google.com/file/d/1dgVtXF2E_jRCSywNeuOWCATODfh_i_Ja/view?usp=sharing",
         },
-        { name: "DevOps", link: "" },
+        { name: "DevOps", link: "https://drive.google.com/file/d/1cqMRq1szUYOOwX4u8WXQwF_WmQHuvuNy/view?usp=sharing" },
         {
           name: "Backend and RESTful APIs",
           link: "https://freecodecamp.org/certification/fcc5320c2ac-7b41-4469-8c24-adf3e4051881/back-end-development-and-apis",
@@ -145,7 +145,7 @@ export default (first) => {
               Hello.
             </h2>
             <Link
-              href="https://drive.google.com/file/d/1MOhKGkYxoSuKkxdVTs-Ad9n7TTldLpO2/view?usp=sharing"
+              href="https://drive.google.com/file/d/1L6M5qZJZWoxqUNOq6EO2V22JyFQygWh0/view?usp=sharing"
               className="flex items-start justify-items-start text-2xl my-4 font-bold hover:underline"
             >
               I'm Nandish M
