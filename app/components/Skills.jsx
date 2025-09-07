@@ -63,14 +63,14 @@ export default (first) => {
       description:
         "A serverless production-ready app built with AWS Lambda, S3, DynamoDB, Cognito, and CloudWatch for image resizing and monitoring.",
       tech: ["AWS Lambda", "S3", "Cognito", "CloudWatch", "DynamoDB"],
-      link: "",
+      link: "https://image-processor-nfi4.vercel.app/",
     },
     {
       title: "Quantum-Inspired IoT Privacy System",
       description:
         "Implemented post-quantum encryption with ML-KEM (Kyber) and AES-256, integrated with MQTT for secure IoT data sharing.",
       tech: ["Node.js", "Post-Quantum Crypto", "MQTT", "Docker"],
-      link: "",
+      link: "https://github.com/NandishM0618/Quantum_CryptSheild/",
     },
     {
       title: "E-commerce Website",
