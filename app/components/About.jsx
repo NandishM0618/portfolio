@@ -168,26 +168,26 @@ export default (first) => {
             <p className="text-[18px] leading-relaxed text-gray-700 mx-auto">
               I am a passionate
               <span className="font-semibold text-black">
-                Full-Stack Developer
+               {" "}Full-Stack Developer
               </span>
               with strong expertise in the
               <span className="text-black">
-                MERN stack (MongoDB, Express.js, React.js, Node.js)
+                {" "}MERN stack (MongoDB, Express.js, React.js, Node.js)
               </span>
               , capable of building end-to-end applications that are scalable,
               efficient, and user-focused.
             </p>
             <p className="text-[18px] leading-relaxed text-gray-700 mx-auto">
               With hands-on experience in
-              <span className="text-black">AWS Cloud</span>, I specialize in
+              <span className="text-black">{" "}AWS Cloud</span>, I specialize in
               deploying secure, cloud-native applications and leveraging
               services for performance, reliability, and cost optimization.
             </p>
             <p className="text-[18px] leading-relaxed text-gray-700 mx-auto">
-              Skilled in <span className="text-black">DevOps practices</span>
+              Skilled in <span className="text-black">DevOps practices{" "}</span>
               such as CI/CD pipelines, Docker, and Kubernetes, I ensure smooth
               development lifecycles and seamless deployments. My foundation in
-              <span className="text-black">Linux</span>
+              <span className="text-black">{" "}Linux{" "}</span>
               further enhances my ability to work in cloud and production
               environments effectively.
             </p>
@@ -195,7 +195,7 @@ export default (first) => {
               I bring a problem-solving mindset, adaptability, and a continuous
               learning attitude, making me highly suitable for roles where
               <span className="font-semibold text-black">
-                full-stack development, cloud, and DevOps
+                {" "}full-stack development, cloud, and DevOps{" "}
               </span>
               expertise are key.
             </p>
