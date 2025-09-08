@@ -59,6 +59,13 @@ export default (first) => {
 
   const projects = [
     {
+      title: "Capstone Blog Platform with Devops",
+      description:
+        "A full-stack blogging platform with CI/CD pipelines, Docker containerization, and Kubernetes orchestration. Users can create, view, update, and delete posts.",
+      tech: ["Docker", "Jenkins", "CI/CD", "Kubernetes", "Cloud"],
+      link: "https://github.com/NandishM0618/capstone",
+    },
+    {
       title: "Cloud Image Processor",
       description:
         "A serverless production-ready app built with AWS Lambda, S3, DynamoDB, Cognito, and CloudWatch for image resizing and monitoring.",
